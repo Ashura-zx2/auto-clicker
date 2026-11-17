@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">POCO Auto Clicker</string>
+    <string name="service_description">Выполняет нажатия по команде пользователя через плавающую панель.</string>
+</resources>
